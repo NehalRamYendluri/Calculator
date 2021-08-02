@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/NehalRamYendluri/Pokemon-Sword-and-Shield)](https://repl.it/github/NehalRamYendluri/Calculator)
 ## Calculator!
 ### About
 #### *A super Calculator made by @NehalRam. This monstrosity of a calculator was built for lightning fast smooth calculations.This a followup(update) to the first version(V1.0, https://replit.com/talk/share/Calculator/140230). This update sees the release of exit commands. they are essentially commands that you can type in at any input to rerun the Calculator!*
